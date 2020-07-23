@@ -4,3 +4,15 @@ C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Servi
 C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
 C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
