@@ -16,3 +16,6 @@ C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Servi
 C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
 C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml

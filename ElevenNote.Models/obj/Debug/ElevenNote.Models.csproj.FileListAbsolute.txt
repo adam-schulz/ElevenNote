@@ -3,3 +3,4 @@ C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Model
 C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
 C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
